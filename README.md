@@ -40,6 +40,8 @@ python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt
 This will start the webcam and perform real-time object detection.
 
 🎥 Demo
+
+output video---------
   <img src="./real_time_output_gif/demo-gif.gif" alt="index1"/>
 
 📜 License
