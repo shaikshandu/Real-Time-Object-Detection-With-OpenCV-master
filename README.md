@@ -19,8 +19,9 @@ It detects common objects like people, cars, chairs, dogs, etc., directly from y
    ```bash
    git clone https://github.com/shaikshandu/Real-Time-Object-Detection-With-OpenCV.git
    cd Real-Time-Object-Detection-With-OpenCV/opencv
-Install dependencies:
+``Install dependencies:
 pip install opencv-python
+``
 ▶️ Usage
 Run the following command:
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
