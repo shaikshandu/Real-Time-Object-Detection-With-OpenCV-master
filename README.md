@@ -27,8 +27,10 @@ pip install opencv-python
 ``▶️ 
 Run the following command:
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
-This will start the webcam and perform real-time object detection.
 ``
+This will start the webcam and perform real-time object detection.
+
+-----
 🎥 Demo
 
 output video---------
