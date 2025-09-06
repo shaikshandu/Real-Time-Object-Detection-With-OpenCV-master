@@ -38,6 +38,8 @@ This project is licensed under the MIT License.
 👉 You just need to save this as **`README.md`** in your repo’s root folder.  
 👉 Since you already have `real_time_output_gif/demo-gif.gif`, GitHub will display it automatically.  
 
+
+Project Structure
 ```text
 Real-Time-Object-Detection-With-OpenCV/
 ├── opencv/
