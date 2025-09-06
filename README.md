@@ -12,7 +12,18 @@ It detects common objects like people, cars, chairs, dogs, etc., directly from y
 - Easy to run with Python
 
 ---
-<pre> ```text Real-Time-Object-Detection-With-OpenCV/ ├── opencv/ ├── MobileNetSSD_deploy.prototxt.txt ├── MobileNetSSD_deploy.caffemodel ├── real_time_object_detection.py ├── real_time_output_gif/ │ └── demo-gif.gif ├── coco.names ├── LICENSE └── README.md ``` </pre>
+```text
+Real-Time-Object-Detection-With-OpenCV/
+├── opencv/
+├── MobileNetSSD_deploy.prototxt.txt
+├── MobileNetSSD_deploy.caffemodel
+├── real_time_object_detection.py
+├── real_time_output_gif/
+│   └── demo-gif.gif
+├── coco.names
+├── LICENSE
+└── README.md
+
 
 ## ⚙️ Installation
 
