@@ -47,20 +47,7 @@ output video---------
 📜 License
 This project is licensed under the MIT License.
 
-yaml
-Copy code
-
----
 
 👉 You just need to save this as **`README.md`** in your repo’s root folder.  
 👉 Since you already have `real_time_output_gif/demo-gif.gif`, GitHub will display it automatically.  
 
-Would you like me to also add a **requirements.txt** (so anyone can install all dependencies in one command)?
-
-
-
-
-
-
-
-Ask ChatGPT
