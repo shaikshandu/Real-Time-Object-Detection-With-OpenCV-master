@@ -22,11 +22,11 @@ It detects common objects like people, cars, chairs, dogs, etc., directly from y
 ``Install dependencies:
 pip install opencv-python
 ``
-▶️ Usage
+``▶️ Usage
 Run the following command:
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 This will start the webcam and perform real-time object detection.
-
+``
 🎥 Demo
 
 output video---------
